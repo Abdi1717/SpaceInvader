@@ -1,11 +1,5 @@
 =:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=
-CIS 120 Game Project README
-PennKey: _______
-=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=
-
-===================
-=: Core Concepts :=
-===================
+Abdinajib Mohamed Game
 
 - List the four core concepts, the features they implement, and why each feature
   is an appropriate use of the concept. Incorporate the feedback you got after
@@ -50,10 +44,4 @@ PennKey: _______
 
 
 
-========================
-=: External Resources :=
-========================
 
-- Cite any external resources (libraries, images, tutorials, etc.) that you may
-  have used while implementing your game.
-  Pizza. StackOverFlow for the Arrays.sort(int a []);
